@@ -45,7 +45,8 @@ PART 6. Serangan Social Engineering
 PART 7. Teknik Serangan pada Wifi
 1. Wifi Deauth Attack
 2. Wifi Password Cracking
-3. Wifi Evil Twin4. Kombinasi Wifi Attack dan Physical Attack
+3. Wifi Evil Twin
+4. Kombinasi Wifi Attack dan Physical Attack
    
 PART 8. TEKNIK INFORMATION GATHERING
 1. Tentang information gathering
