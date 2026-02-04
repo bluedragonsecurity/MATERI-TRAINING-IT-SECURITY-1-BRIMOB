@@ -1,6 +1,6 @@
 IT Security Training Material in Indonesian Language
 
-<h2>Silabus & Materi Training IT Security ke-1 di brimob</h2>h2>
+<h2>Silabus & Materi Training IT Security ke-1 di brimob</h2>
 
 Ditulis oleh : Antonius (wisdom)
 
