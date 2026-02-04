@@ -59,9 +59,11 @@ PART 9. TEKNIK HACKING LANJUTAN
 4. Contoh Peretasan Pada Jaringan Perusahaan / Institusi (The Lateral Movements)
 5. Cara Hack Whatsapp dengan SIM Card Swapping dan SIM Card Recycling
 
-   keterangan : seluruh materi di atas adalah materi training it security ke-1 yang diberikan untuk brimob Indonesia
+ 
 
 Keterangan : 
+- Seluruh materi di atas adalah materi training it security ke-1 yang diberikan untuk brimob Indonesia
+   
 - Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : developed kiddies
 
 - Dengan menguasai seluruh materi training ke-2 maka peserta ditargetkan untuk mencapai level hacker : semi elite menuju elite
